@@ -1,0 +1,80 @@
+html {
+}
+
+body {
+  border: solid;
+  border-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+textarea {
+  resize: none;
+}
+
+.index {
+  background-color: #7f7f7f;
+  color: #007f00;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: solid;
+  border-color: black;
+}
+
+.aboutme {
+  background-color: #ffff00;
+  color: #000000;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: solid;
+  border-color: black;
+}
+
+.header {
+  text-align: center;
+  font-style: bold;
+  font-family: Arial;
+  font-size: 50pt;
+}
+
+.header1 {
+  text-align: left;
+  font-style: bold;
+  font-family: Arial;
+  font-size: 20pt;
+}
+
+.link {
+  line-height: 35px;
+  margin: 5px;
+}
+
+.gambar {
+  text-align: center;
+}
+
+.datadiri {
+  margin-top: 10px;
+  margin-left: 10px;
+  line-height: 20px;
+}
+
+.tdiri {
+  margin-top: 10px;
+  margin-left: 10px;
+  line-height: 20px;
+}
+
+.cerita {
+  margin-top: 10px;
+  margin-left: 10px;
+  line-height: 20px;
+}
